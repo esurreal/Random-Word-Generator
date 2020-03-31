@@ -46,24 +46,6 @@ while True:
 
 
 
-
-
-
-
-        
-        
-        
-        
-
-
-#while rndword > 0:
-    #rndword -= 1
-    #print (random.choice(newlist))
-   # break
-    
-
-
-
     
         
 
